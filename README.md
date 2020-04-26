@@ -16,4 +16,3 @@ Intended mostly for CS and related majors.
 |  HRT | [Mid-Frequency Algo Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=2160228) | New York, NY | Apply to only one  | Open
 |  HRT | [Software Engineering Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=2160225) | New York, NY; Chicago, IL | Apply to only one  | Open
 |  Morgan Stanley | [Technology Summer Analyst Program](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York, NY | Apply to only one  | Open
-|  Morgan Stanley | [Technology Summer Analyst Program](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York, NY | Apply to only one  | Open
