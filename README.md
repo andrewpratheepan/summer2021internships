@@ -7,7 +7,7 @@
 Intended mostly for CS and related majors.
 
 
- **Note**: Feel free to create new pull requests to include/update positions.
+ **Note**: Please have your commit message and PR messsage include which companies are being updated/added.
 
 ## The List
 
