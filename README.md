@@ -1,7 +1,7 @@
 
 # Summer 2021 Internships
 
-> **Inspired by [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and [chritine-hu](https://github.com/christine-hu/summer-2019-internships)**
+> **Inspired by [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and [christine-hu](https://github.com/christine-hu/summer-2019-internships)**
 
 
 Intended mostly for CS and related majors.
