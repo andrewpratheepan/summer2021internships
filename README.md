@@ -19,4 +19,6 @@ Intended mostly for CS and related majors.
 |  Qualcomm | [Software Engineer Intern](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304) | San Diego, CA; Santa Clara, CA; San Jose, CA; Boulder, CO; Austin, TX |   | Open
 |  American Express | [Software Engineer Intern](https://jobs.americanexpress.com/jobs/20001627?lang=en-us) | Phoenix, AZ; Ft. Lauderdale, FL; New York, NY |   | Open
 |  IMC | [Software Engineer Intern](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Software-Engineer-Intern---Summer-2021_REQ-00813) | Chicago, IL |   | Open
+|  IMC | [Quant Trader Intern](https://imc.wd5.myworkdayjobs.com/en-US/invitation/job/Chicago/Quant-Trader-Intern---Summer-2021_REQ-00811) | Chicago, IL |   | Open
+
 
