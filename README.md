@@ -18,4 +18,5 @@ Intended mostly for CS and related majors.
 |  Morgan Stanley | [Technology Summer Analyst](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York, NY |   | Open
 |  Qualcomm | [Software Engineer Intern](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304) | San Diego, CA; Santa Clara, CA; San Jose, CA; Boulder, CO; Austin, TX |   | Open
 |  American Express | [Software Engineer Intern](https://jobs.americanexpress.com/jobs/20001627?lang=en-us) | Phoenix, AZ; Ft. Lauderdale, FL; New York, NY |   | Open
+|  IMC | [Software Engineer Intern](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Software-Engineer-Intern---Summer-2021_REQ-00813) | Chicago, IL |   | Open
 
