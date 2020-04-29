@@ -20,5 +20,7 @@ Intended mostly for CS and related majors.
 |  American Express | [Software Engineer Intern](https://jobs.americanexpress.com/jobs/20001627?lang=en-us) | Phoenix, AZ; Ft. Lauderdale, FL; New York, NY |   | Open
 |  IMC | [Software Engineer Intern](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Software-Engineer-Intern---Summer-2021_REQ-00813) | Chicago, IL |   | Open
 |  IMC | [Quant Trader Intern](https://imc.wd5.myworkdayjobs.com/en-US/invitation/job/Chicago/Quant-Trader-Intern---Summer-2021_REQ-00811) | Chicago, IL |   | Open
+|  Parsons | [Computer Engineering Intern](https://jobs.parsons.com/job/10837565/computer-engineering-intern-summer-2021-centreville-va/) | Centreville, VA | US Citizenship; GPA > 3.0   | Open
+
 
 
