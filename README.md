@@ -23,6 +23,7 @@ Intended mostly for CS and related majors.
 |  Parsons | [Computer Engineering Intern](https://jobs.parsons.com/job/10837565/computer-engineering-intern-summer-2021-centreville-va/) | Centreville, VA | US Citizenship; GPA > 3.0   | Open
 |  Five Rings Captial | [Software Developer Intern](https://jobs.jobvite.com/fiverings/job/o1OAcfwl) | New York, NY |    | Open
 |  Five Rings Captial | [Quant Trader Intern](https://jobs.jobvite.com/fiverings/job/oeOAcfwy) | New York, NY |    | Open
+|  Apple | [Graduate CV Intern](https://jobs.apple.com/en-us/details/200168156/computer-vision-intern-cvpr-2020?team=SFTWR) | Cupertino, CA | PhD/Masters   | Open
 
 
 
