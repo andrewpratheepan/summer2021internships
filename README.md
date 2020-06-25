@@ -28,6 +28,7 @@ Intended mostly for CS and related majors.
 |  DRW | [Quantitative Research Intern](https://drw.com/careers/job/1350342) | Chicago, IL |    | Open
 |  DRW | [Quantitative Trading Analyst Intern](https://drw.com/careers/job/1350336) | Chicago, IL |    | Open
 |  DRW | [Software Developer Intern](https://drw.com/careers/job/1350323) | Chicago, IL |    | Open
+|  Zapata Computing  |  [Quantum Platform Engineer Intern](https://zapata.bamboohr.com/jobs/view.php?id=67&source=other) | Boston, MA; Austin, TX |    |  Open
 
 
 
